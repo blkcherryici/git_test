@@ -1,2 +1,3 @@
 Goodnight after this time cause im tired and have been cooking dinner and learning since 4pm.
 trying to commit from another machine and local
+practicing version control
