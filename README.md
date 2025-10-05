@@ -1,2 +1,2 @@
 # git_test
-"Hello Odin!" "Hello, World!"
+"Hello Odin!" "Hello, World!" "Hello, Life."
