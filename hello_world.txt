@@ -3,3 +3,4 @@ trying to commit from another machine and local
 practicing version control
 practicing some more. and more and more.
 tryign to understand git and vscode at the same damned time is kind of frustrating but fun as well.
+kind of getting the hang of it by using my laptop and pc at the same time
